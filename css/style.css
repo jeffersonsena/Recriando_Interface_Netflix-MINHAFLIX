@@ -198,6 +198,14 @@ h2 {
     
 }
 
+
+.footer-stl {
+    height: 50px;
+    text-align: center;
+    padding-top: 16px;
+    background-color: rgba(0, 0, 0, 0.75);
+}
+
 /*
 teste de box
 
